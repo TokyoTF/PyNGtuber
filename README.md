@@ -54,9 +54,10 @@ Requires `Python 3.11`
 - sounddevice
 - pyautogui
 - psutil
+- requests
   
   ```py
-  pip install pyqt6 pyqt6-webengine pillow pyaudio beautifulsoup4 mido numpy pynput dateutils twitchapi sounddevice pyautogui psutil
+  pip install  pyqt6 pyqt6-webengine pillow pyaudio beautifulsoup4 mido numpy pynput dateutils twitchapi sounddevice pyautogui psutil requests
   ```
   
 ## Contributions
